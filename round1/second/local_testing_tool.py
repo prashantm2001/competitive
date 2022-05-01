@@ -308,6 +308,12 @@ def main():
   except Error as err:
     print(str(err)[:1000], file=sys.stderr)
     sys.exit(1)
+  except EOFError as error:
+    ActuallyOutput(INVALID_OUTPUT)
+    print(
+        ("Invalid input: {}".format(error))[:1000],
+        file=sys.stderr)
+    sys.exit(1)
   except Exception as exception:
     ActuallyOutput(INVALID_OUTPUT)
     print(
