@@ -1,22 +1,15 @@
 <div>
 <h3>
-[ ]  leetcode weekly
+[ ]  weekly leetcode
 </h3>
-    May 8, 2022 at 13:30  
+    May 8, 2022 at 08:00 AM IST.
 </div>
 
 <div>
 <h3>
-[ ]  leetcode biweekly
+[ ]  codechef stater 38
 </h3>
-    May 14, 2022 at 13:30  
-</div>
-
-<div>
-<h3>
-[ ]  codeforces
-</h3>
-    May 4, 2022 at 11:00  
+    May 11, 2022 at 08:00 PM IST.
 </div>
 
 <div>
@@ -24,6 +17,13 @@
 [ ]  topcoder SRM
 </h3>
     May 11, 2022 at 09:00 PM UTC - 4.
+</div>
+
+<div>
+<h3>
+[ ]  Biweekly leetcode
+</h3>
+    May 14, 2022 at 08:00 AM IST .
 </div>
 
 <div>
